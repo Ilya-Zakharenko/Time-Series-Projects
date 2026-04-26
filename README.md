@@ -1,2 +1,2 @@
 # Time-Series-Projects
-Time Series Analysis, Forecasting and Sequence Modeling projects. ARIMA, Prophet, XGBoost, LSTM, Transformers and modern approaches.
+Projects focused on time series forecasting, anomaly detection in sequences, and modern approaches including classical models (ARIMA/SARIMA), gradient boosting and deep learning (LSTM, Temporal Fusion Transformers).
