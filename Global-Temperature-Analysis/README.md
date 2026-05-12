@@ -2,6 +2,8 @@
 
 Time series analysis and forecasting of average monthly temperatures using historical climate data.
 
+---
+
 <div align="center">
   <img src="images/Er9VF.jpg" width="100%" alt="Global Temperature Analysis & Forecasting">
 </div>
