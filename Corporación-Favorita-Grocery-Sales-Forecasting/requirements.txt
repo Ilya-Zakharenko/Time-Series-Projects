@@ -1,0 +1,14 @@
+numpy
+pandas
+category-encoders
+imbalanced-learn
+seaborn
+plotly
+matplotlib
+statsmodels
+holidays
+scikit-learn
+pmdarima
+prophet
+xgboost
+catboost
