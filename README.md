@@ -9,6 +9,9 @@ Collection of my projects focused on **Time Series Analysis, Forecasting and Seq
 - **[Favorita Store Sales Forecasting](Corporación-Favorita-Grocery-Sales-Forecasting/)**  
   Large-scale sales forecasting for thousands of products across Favorita grocery stores in Ecuador. Comparison of classical (ARIMA/SARIMA), Prophet and gradient boosting models (XGBoost, CatBoost).
 
+- **[Global Temperature Analysis & Forecasting](Global-Temperature-Analysis/)**  
+  Analysis of historical climate data and forecasting of monthly average temperatures using Linear Regression and feature engineering techniques.
+
 
 ---
 

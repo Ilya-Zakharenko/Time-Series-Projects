@@ -3,7 +3,7 @@
 Large-scale sales forecasting for thousands of products across Favorita grocery stores in Ecuador.
 
 <div align="center">
-  <img src="images/0a3Th.jpg" width="100%" alt="Fashion-MNIST Classification">
+  <img src="images/0a3Th.jpg" width="100%" alt="Corporación Favorita Grocery Sales Forecasting">
 </div>
 
 ---
