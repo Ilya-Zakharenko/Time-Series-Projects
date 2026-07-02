@@ -1,0 +1,9 @@
+aiogram==3.13.1
+yfinance==0.2.44
+pandas==2.2.3
+numpy==2.1.2
+scikit-learn==1.5.2
+prophet==1.1.6
+torch==2.5.0
+matplotlib==3.9.2
+plotly==5.24.1
